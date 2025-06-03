@@ -1,0 +1,14 @@
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\egzamin\egzamin\DuzyMagazyn\bin\Debug\net8.0\DuzyMagazyn.exe
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\egzamin\egzamin\DuzyMagazyn\bin\Debug\net8.0\DuzyMagazyn.deps.json
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\egzamin\egzamin\DuzyMagazyn\bin\Debug\net8.0\DuzyMagazyn.runtimeconfig.json
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\egzamin\egzamin\DuzyMagazyn\bin\Debug\net8.0\DuzyMagazyn.dll
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\egzamin\egzamin\DuzyMagazyn\bin\Debug\net8.0\DuzyMagazyn.pdb
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\egzamin\egzamin\DuzyMagazyn\obj\Debug\net8.0\DuzyMagazyn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\egzamin\egzamin\DuzyMagazyn\obj\Debug\net8.0\DuzyMagazyn.AssemblyInfoInputs.cache
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\egzamin\egzamin\DuzyMagazyn\obj\Debug\net8.0\DuzyMagazyn.AssemblyInfo.cs
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\egzamin\egzamin\DuzyMagazyn\obj\Debug\net8.0\DuzyMagazyn.csproj.CoreCompileInputs.cache
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\egzamin\egzamin\DuzyMagazyn\obj\Debug\net8.0\DuzyMagazyn.dll
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\egzamin\egzamin\DuzyMagazyn\obj\Debug\net8.0\refint\DuzyMagazyn.dll
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\egzamin\egzamin\DuzyMagazyn\obj\Debug\net8.0\DuzyMagazyn.pdb
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\egzamin\egzamin\DuzyMagazyn\obj\Debug\net8.0\DuzyMagazyn.genruntimeconfig.cache
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\egzamin\egzamin\DuzyMagazyn\obj\Debug\net8.0\ref\DuzyMagazyn.dll
