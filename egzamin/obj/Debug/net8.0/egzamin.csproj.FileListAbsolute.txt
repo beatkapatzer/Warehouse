@@ -1,0 +1,14 @@
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\egzamin\egzamin\egzamin\bin\Debug\net8.0\egzamin.exe
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\egzamin\egzamin\egzamin\bin\Debug\net8.0\egzamin.deps.json
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\egzamin\egzamin\egzamin\bin\Debug\net8.0\egzamin.runtimeconfig.json
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\egzamin\egzamin\egzamin\bin\Debug\net8.0\egzamin.dll
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\egzamin\egzamin\egzamin\bin\Debug\net8.0\egzamin.pdb
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\egzamin\egzamin\egzamin\obj\Debug\net8.0\egzamin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\egzamin\egzamin\egzamin\obj\Debug\net8.0\egzamin.AssemblyInfoInputs.cache
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\egzamin\egzamin\egzamin\obj\Debug\net8.0\egzamin.AssemblyInfo.cs
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\egzamin\egzamin\egzamin\obj\Debug\net8.0\egzamin.csproj.CoreCompileInputs.cache
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\egzamin\egzamin\egzamin\obj\Debug\net8.0\egzamin.dll
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\egzamin\egzamin\egzamin\obj\Debug\net8.0\refint\egzamin.dll
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\egzamin\egzamin\egzamin\obj\Debug\net8.0\egzamin.pdb
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\egzamin\egzamin\egzamin\obj\Debug\net8.0\egzamin.genruntimeconfig.cache
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\egzamin\egzamin\egzamin\obj\Debug\net8.0\ref\egzamin.dll

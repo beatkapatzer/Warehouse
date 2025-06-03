@@ -1,0 +1,14 @@
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\egzamin\egzamin\egzamin\bin\Debug\net8.0\TrudnyMagazyn.exe
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\egzamin\egzamin\egzamin\bin\Debug\net8.0\TrudnyMagazyn.deps.json
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\egzamin\egzamin\egzamin\bin\Debug\net8.0\TrudnyMagazyn.runtimeconfig.json
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\egzamin\egzamin\egzamin\bin\Debug\net8.0\TrudnyMagazyn.dll
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\egzamin\egzamin\egzamin\bin\Debug\net8.0\TrudnyMagazyn.pdb
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\egzamin\egzamin\egzamin\obj\Debug\net8.0\TrudnyMagazyn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\egzamin\egzamin\egzamin\obj\Debug\net8.0\TrudnyMagazyn.AssemblyInfoInputs.cache
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\egzamin\egzamin\egzamin\obj\Debug\net8.0\TrudnyMagazyn.AssemblyInfo.cs
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\egzamin\egzamin\egzamin\obj\Debug\net8.0\TrudnyMagazyn.csproj.CoreCompileInputs.cache
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\egzamin\egzamin\egzamin\obj\Debug\net8.0\TrudnyMagazyn.dll
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\egzamin\egzamin\egzamin\obj\Debug\net8.0\refint\TrudnyMagazyn.dll
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\egzamin\egzamin\egzamin\obj\Debug\net8.0\TrudnyMagazyn.pdb
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\egzamin\egzamin\egzamin\obj\Debug\net8.0\TrudnyMagazyn.genruntimeconfig.cache
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\egzamin\egzamin\egzamin\obj\Debug\net8.0\ref\TrudnyMagazyn.dll
